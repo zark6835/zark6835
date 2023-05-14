@@ -39,7 +39,7 @@ I am a novice Ukrainian developer. My journey began in November 2022 with the ch
 
 
 
-### 🤝 Social Media:
+## 🤝 Social Media:
   
   
 <a href="https://github.com/https://github.com/zark6835" target="_blank">
