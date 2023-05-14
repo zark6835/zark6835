@@ -3,7 +3,7 @@
 
 
 
-### Glad to see you here!  
+### 👨‍💻 About me:  
 I am a novice Ukrainian developer. My journey began in November 2022 with the choice of a programming language. After watching a bunch of YouTube videos, I decided to start with Python and after making a few programs (i.e. a calculator😅), I didn't like it and gave up for a few months. After Russia's full-scale invasion of my country, I was forced to move from Kyiv to my grandmother's house in the countryside. It was there that I started my journey in web development. A few months after the temporary move, I got bored and decided to return to studying programming, but this time I decided to study front-end development. After watching webinars on HTML and CSS on YouTube, and a couple of written mockups, I enrolled in the [Foxminded: Mentoring Curse - Front End Developer course: React](https://foxminded.ua/front-end-1/), where I learned JS and React. Now I'm looking for a job.  
   
 
