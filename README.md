@@ -35,7 +35,6 @@ I am a novice Ukrainian developer. My journey began in November 2022 with the ch
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
 
 
 
@@ -49,7 +48,3 @@ I am a novice Ukrainian developer. My journey began in November 2022 with the ch
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
