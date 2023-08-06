@@ -9,6 +9,9 @@ I am a novice Ukrainian developer. My journey began in November 2022 with the ch
 
 <br/>  
 
+<img width="600" src="/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;">
+
+<br/>  
 
 ## Languages and Tools  
 
