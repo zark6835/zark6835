@@ -50,7 +50,5 @@ I am a novice Ukrainian developer. My journey began in November 2022 with the ch
 <a href="https://linkedin.com/in/myroslav-baibarza-400745275" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<br/>  
-
 
 [![codewars](https://www.codewars.com/users/zark6666/badges/large)](https://www.codewars.com/users/zark6666)
