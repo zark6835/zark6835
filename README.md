@@ -52,4 +52,3 @@ I am a novice Ukrainian developer. My journey began in November 2022 with the ch
 </a>
 
 [![codewars](https://www.codewars.com/users/zark6666/badges/large)](https://www.codewars.com/users/zark6666)
-<br/>  
